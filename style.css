@@ -26,7 +26,7 @@ body {
   src: url('../чай2/font/TwilightC-Regular.ttf');
 }
 .hero {
-  background: url('../чай2/img/1.jpg') center/cover no-repeat;
+  background: url('../itogovoe/img/1.jpg') center/cover no-repeat;
   height: 400px;
   color: #e2dd8d;
   display: flex;
@@ -74,13 +74,13 @@ body {
 }
 /* Нижняя часть (под диагональю) */
 .bg-below {
-  background-image: url("../чай2/img/1.jpg");
+  background-image: url("../itogovoe/img/1.jpg");
   clip-path: polygon(0 0, 100% 0, 0 100%);
   z-index: 1;
 }
 /* Верхняя часть (над диагональю) */
 .bg-above {
-  background-image: url("../чай2/img/matcha.webp");
+  background-image: url("../itogovoe/img/matcha.webp");
   clip-path: polygon(100% 0, 100% 100%, 0 100%);
   z-index: 2;
 }
