@@ -11,19 +11,19 @@ body {
 }
 @font-face {
   font-family: 'thirdshrift';
-  src: url('../чай2/font/Helmswald.otf');
+  src: url('../itogovoe/font/Helmswald.otf');
 }
 @font-face {
   font-family: 'secshrift';
-  src: url('../чай2/font/zh-cn.ttf');
+  src: url('../itogovoe/font/zh-cn.ttf');
 }
 @font-face {
   font-family: 'fourshrift';
-  src: url('../чай2/font/HUNoodles-Bold.otf');
+  src: url('../itogovoe/font/HUNoodles-Bold.otf');
 }
 @font-face {
   font-family: 'mainshrift';
-  src: url('../чай2/font/TwilightC-Regular.ttf');
+  src: url('../itogovoe/font/TwilightC-Regular.ttf');
 }
 .hero {
   background: url('../itogovoe/img/1.jpg') center/cover no-repeat;
